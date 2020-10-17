@@ -17,6 +17,7 @@ copy bandwidth.sh and bandwidth.db file to
 run crontab -e
 
 add :-
+
 1 * * * * /usr/local/etc/bandwidth.sh 2>&1
 
 copy index.php to web folder
