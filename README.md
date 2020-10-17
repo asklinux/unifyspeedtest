@@ -7,6 +7,7 @@ install python
 wget -O speedtest-cli https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py
 
 cp speedtest-cli /bin/speedtest
+
 chmod +x /bin/speedtest
 
 copy bandwidth.sh and bandwidth.db file to 
