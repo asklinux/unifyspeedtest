@@ -1,6 +1,6 @@
-# unifyspeedtest
+#TM unifi speedtest script
 
-copy .sh and .db file to 
+copy bandwidth.sh and bandwidth.db file to 
 
 /usr/local/etc/
 
